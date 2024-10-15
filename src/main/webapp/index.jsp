@@ -40,7 +40,7 @@
                 <td>
                     <select name="country">
                         <option value="India">CSE</option>
-                        <option value="USA">IT</option>
+                        <option value="USA">CB</option>
                         <option value="UK">EEE</option>
                         <option value="Other">ECE</option>
                     </select>
